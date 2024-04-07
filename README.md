@@ -1,5 +1,5 @@
 <h1>Yummy Restaturant Project</h1>
-link:<p><a href="https://www.w3schools.com/">Visit W3Schools.com!</a></p>
+link:<p><a href="http://localhost:3000">https://ganesh15212.github.io/Yummy_Restaruant_Project/</a></p>
 
 # Getting Started with Create React App
 
