@@ -1,5 +1,5 @@
 <h1>Yummy Restaturant Project</h1>
-link:<p><a href="http://localhost:3000">https://ganesh15212.github.io/Yummy_Restaruant_Project/</a></p>
+link:<p><a href="http://localhost:3000">http://localhost:3000</a></p>
 
 # Getting Started with Create React App
 
