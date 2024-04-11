@@ -1,5 +1,5 @@
 <h1>Yummy Restaturant Project</h1>
-link:yummyrestaturantproject.netlify.app
+link:https://yummyrestaturantproject.netlify.app/
 
 # Getting Started with Create React App
 
